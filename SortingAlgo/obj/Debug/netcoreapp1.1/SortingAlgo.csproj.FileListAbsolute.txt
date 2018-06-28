@@ -1,0 +1,6 @@
+/Users/Guest/Desktop/SortingAlgo.Solution/SortingAlgo/bin/Debug/netcoreapp1.1/SortingAlgo.deps.json
+/Users/Guest/Desktop/SortingAlgo.Solution/SortingAlgo/obj/Debug/netcoreapp1.1/SortingAlgo.AssemblyInfo.cs
+/Users/Guest/Desktop/SortingAlgo.Solution/SortingAlgo/bin/Debug/netcoreapp1.1/SortingAlgo.dll
+/Users/Guest/Desktop/SortingAlgo.Solution/SortingAlgo/bin/Debug/netcoreapp1.1/SortingAlgo.pdb
+/Users/Guest/Desktop/SortingAlgo.Solution/SortingAlgo/obj/Debug/netcoreapp1.1/SortingAlgo.dll
+/Users/Guest/Desktop/SortingAlgo.Solution/SortingAlgo/obj/Debug/netcoreapp1.1/SortingAlgo.pdb
